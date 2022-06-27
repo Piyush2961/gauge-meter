@@ -17,7 +17,6 @@ function App() {
     }turn)`);
   }
 
-
   return (
     <div className="main">
       <div className="guage">
